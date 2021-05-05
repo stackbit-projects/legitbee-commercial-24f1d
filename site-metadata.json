@@ -4,7 +4,7 @@
         "title": "Libris",
         "logo_img": "images/logo (1).svg",
         "logo_img_alt": "Legitbee",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
