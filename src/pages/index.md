@@ -61,16 +61,9 @@ sections:
     type: section_content
     title: Legitbee
     content: >
-      Rien ne se perd, tout se transmet
-
-
-      L'ensemble de vos données patrimoniales, 
-
-
-      votre héritage numérique et vos souvenirs, 
-
-
-      les informations indispensables à vos héritiers
+      Rien ne se perd, tout se transmet. L'ensemble de vos données
+      patrimoniales, votre héritage numérique et vos souvenirs,les informations
+      indispensables à vos héritiers.
 
 
       Tout est organisé, sécurisé et transmis le moment venu aux bénéficiaires
