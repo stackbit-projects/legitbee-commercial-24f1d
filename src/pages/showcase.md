@@ -5,7 +5,8 @@ sections:
     type: section_hero
     title: Retours clients
     image: images/5.jpg
-    content: This is an optional page subtitle
+    content: |
+      Témoignages de nos clients Legitbee
   - section_id: showcase
     type: section_grid
     col_number: three
