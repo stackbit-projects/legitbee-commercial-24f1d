@@ -34,7 +34,8 @@
                 "label": "Legitbee",
                 "url": "https://legitbee.com/",
                 "style": "primary",
-                "has_subnav": false
+                "has_subnav": false,
+                "new_window": true
             }
         ]
     },
