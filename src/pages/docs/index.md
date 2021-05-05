@@ -19,6 +19,10 @@ seo:
       value: Welcome to Libris
     - name: 'twitter:description'
       value: This is the documentation page
+    - name: 'og:image'
+      value: /images/873b171d6d6453afc7733d7f3b26b4e2.png
+      keyName: property
+      relativeUrl: true
 template: docs
 ---
 
