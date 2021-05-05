@@ -62,7 +62,7 @@ sections:
     title: Legitbee
     content: >
       Rien ne se perd, tout se transmet. L'ensemble de vos données
-      patrimoniales, votre héritage numérique et vos souvenirs,les informations
+      patrimoniales, votre héritage numérique et vos souvenirs, les informations
       indispensables à vos héritiers.
 
 
