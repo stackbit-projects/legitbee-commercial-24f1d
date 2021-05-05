@@ -6,8 +6,8 @@ sections:
     title: Legitbee - Documentation
     image: images/5.jpg
     content: >
-      Retrouvez tous les **guides **et les **explications **sur la solution
-      Legitbee
+      Retrouvez tous les \*\*guides \*\* et les \*\*explications \*\* sur la
+      solution Legitbee
     actions:
       - label: Découvrir les guides
         url: /docs
