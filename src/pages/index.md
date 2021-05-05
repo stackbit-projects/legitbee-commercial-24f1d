@@ -98,7 +98,7 @@ sections:
     title: Sauvegarder votre avenir en quelques clics
     subtitle: Vous décidez de votre vie en ligne
     actions:
-      - label: Get Started
+      - label: Commencer maintenant
         url: /docs/getting-started/installation
         style: primary
 seo:
