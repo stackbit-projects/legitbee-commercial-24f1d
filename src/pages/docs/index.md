@@ -1,5 +1,5 @@
 ---
-title: Welcome to Libris
+title: Bienvenue sur la documentation LegitBee
 seo:
   title: Bienvenue sur la documentation de Legitbee
   description: Retrouvez tous les guides et informations sur legitbee
