@@ -72,7 +72,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Navigation rapide
-    subtitle: An optional subtitle of the section
+    subtitle: retrouvez les pages les plus visitées
     col_number: two
     grid_items:
       - title: Vue d'ensemble
