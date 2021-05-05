@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Legitbee - Base documentaire
+    title: Legitbee - Documentation
     image: images/5.jpg
     content: |
       Retrouvez tous les guides et les explications sur la solution Legitbee
