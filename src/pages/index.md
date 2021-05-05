@@ -8,7 +8,7 @@ sections:
     content: |
       Retrouvez tous les guides et les explications sur la solution Legitbee
     actions:
-      - label: Get Started
+      - label: Découvrir les guides
         url: /docs
         style: primary
   - section_id: features
