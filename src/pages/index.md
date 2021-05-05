@@ -44,7 +44,7 @@ sections:
   - section_id: text-img
     type: section_content
     image: images/knowledgeable-daffodil.svg
-    image_position: right
+    image_position: left
     title: Les partenaires de Legitbee
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
