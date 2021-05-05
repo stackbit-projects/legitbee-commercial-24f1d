@@ -43,7 +43,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: images/knowledgeable-daffodil.svg
     image_position: left
     title: Les partenaires de Legitbee
     content: >-
