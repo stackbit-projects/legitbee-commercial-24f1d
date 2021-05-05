@@ -92,7 +92,7 @@ sections:
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
           - label: En savoir plus
-            url: /showcase
+            url: /docs
             style: link
   - section_id: cta
     type: section_cta
