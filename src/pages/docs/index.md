@@ -1,7 +1,7 @@
 ---
 title: Welcome to Libris
 seo:
-  title: Welcome to Libris
+  title: Bienvenue sur la documentation de Legitbee
   description: This is the documentation page
   extra:
     - name: 'og:type'
