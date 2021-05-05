@@ -11,7 +11,7 @@ seo:
       value: Documentation de Legitbee
       keyName: property
     - name: 'og:description'
-      value: This is the documentation page
+      value: Retrouvez tous les guides et informations sur legitbee
       keyName: property
     - name: 'twitter:card'
       value: summary
