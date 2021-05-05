@@ -11,7 +11,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Exto
+      - title: Jean michel
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/6.jpg
         content: A portfolio theme for Unibit
