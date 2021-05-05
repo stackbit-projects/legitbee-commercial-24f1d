@@ -1,5 +1,5 @@
 ---
-title: Typography
+title: Guide patrimoine
 weight: 1
 seo:
   title: Typography
