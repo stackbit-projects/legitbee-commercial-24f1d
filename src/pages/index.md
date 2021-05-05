@@ -57,7 +57,7 @@ sections:
       - label: Nous contacter
         url: /docs/getting-started
         style: secondary
-    image_alt: letgitbee
+    image_alt: legitbee
   - section_id: text-no-img
     type: section_content
     title: Legitbee
