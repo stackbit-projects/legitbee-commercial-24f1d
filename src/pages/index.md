@@ -66,7 +66,7 @@ sections:
       indispensables à vos héritiers. Tout est **organisé**, **sécurisé**  et
       **transmis **le moment venu aux bénéficiaires de votre choix.
     actions:
-      - label: Get Started
+      - label: retourner sur le site legitbee
         url: /docs/getting-started/installation
         style: primary
   - section_id: features-two-col
