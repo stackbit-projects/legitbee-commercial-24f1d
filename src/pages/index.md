@@ -103,7 +103,7 @@ sections:
         style: primary
 seo:
   title: Legitbee - Documentation
-  description: The preview of the Libris theme
+  description: Legitbee - Foire aux questions
   extra:
     - name: 'og:type'
       value: website
