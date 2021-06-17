@@ -112,7 +112,7 @@ seo:
       value: Legitbee Documentation
       keyName: property
     - name: 'og:description'
-      value: The preview of the Libris theme
+      value: Documentation Legitbee pour tous
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
